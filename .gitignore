@@ -1,2 +1,4 @@
 .env
-frontend/build
+frontend/main.js
+index.html
+
